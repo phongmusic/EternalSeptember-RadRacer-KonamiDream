@@ -1,6 +1,6 @@
 Instructions:
 
-clone the whole repository (download and put it someone on your computer)
+clone the whole repository (download and put it someone on your computer) -- Big green button on this page
 
 Download and Install VSCode and open the folder with VSCode
 
